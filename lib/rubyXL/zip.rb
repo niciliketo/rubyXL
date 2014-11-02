@@ -1,6 +1,5 @@
 require 'rubygems'
 require 'zip'
-#require 'zip/zipfilesystem'
 
 module RubyXL
   class MyZip
